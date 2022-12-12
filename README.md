@@ -1,5 +1,5 @@
 # AnytimeAStar
-Anytime A Star (ARA*)
+Anytime A Star (ARA*) in Unity (C#)
 
 This variant of A* starts with a weighted A*, generating a non-optimal path, but faster than the vanilla A* initially. Then progressibely optimising the path after a few iterations.
 
